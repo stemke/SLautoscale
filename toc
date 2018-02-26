@@ -1,0 +1,25 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="slmonitoring" audience="compute" href="/docs/infrastructure/slautoscale/index.html"}
+Auto Scale
+
+    {: .navgroup id="learn"}
+    index.md
+    as_overview.md
+    user-permissions-required.md
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    as_setup.md
+    as_manage_resource.md
+    traffic_spikes.md
+    auto-scale-apache-brooklyn.md
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    autoscale_faq.md
+    
+    {: .navgroup id="ref"}
+    auto-scale-terms.md
+{: .navgroup-end}
