@@ -39,7 +39,7 @@ Review your auto scale options and determine whether resource-based or schedule-
   <tr><th> Auto scale options</th>
     <th>Description</th>
   </tr>
-  <tr><td>[Schedule-based autoscaling](traffic_spikes.md)</td>
+  <tr><td>[Schedule-based autoscaling](traffic_spikes.html)</td>
     <td>Use auto scaling to set up policies for time-based usage spikes, like over weekends or holidays.</td>
   </tr>
   <tr><td>[Resource-based autoscaling](as_manage_resource.html)</td>
